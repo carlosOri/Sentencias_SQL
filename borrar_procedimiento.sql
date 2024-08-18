@@ -1,0 +1,1 @@
+DROP PROCEDURE insert_order_list_old;

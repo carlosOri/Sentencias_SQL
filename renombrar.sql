@@ -1,0 +1,1 @@
+ALTER PROCEDURE insert_order_list() RENAME to insert_order_list_old;
